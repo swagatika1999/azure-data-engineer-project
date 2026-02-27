@@ -1,0 +1,9 @@
+{
+	"name": "dataEnggProject1DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "303b9d31-dcbd-4efb-9d9c-165e933323cd",
+		"tenantId": "46f2b078-1688-4cf1-9b44-67190a2db006"
+	}
+}
